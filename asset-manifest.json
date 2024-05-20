@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/heliverse-task/static/css/main.2ed939fc.css",
-    "main.js": "/heliverse-task/static/js/main.a50b12f6.js",
+    "main.js": "/heliverse-task/static/js/main.ee117551.js",
     "static/js/453.7ad36787.chunk.js": "/heliverse-task/static/js/453.7ad36787.chunk.js",
     "static/media/logo.svg": "/heliverse-task/static/media/logo.f6121fbbfec25dbc851a.svg",
     "index.html": "/heliverse-task/index.html",
     "main.2ed939fc.css.map": "/heliverse-task/static/css/main.2ed939fc.css.map",
-    "main.a50b12f6.js.map": "/heliverse-task/static/js/main.a50b12f6.js.map",
+    "main.ee117551.js.map": "/heliverse-task/static/js/main.ee117551.js.map",
     "453.7ad36787.chunk.js.map": "/heliverse-task/static/js/453.7ad36787.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2ed939fc.css",
-    "static/js/main.a50b12f6.js"
+    "static/js/main.ee117551.js"
   ]
 }
