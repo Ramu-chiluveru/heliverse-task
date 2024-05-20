@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.6c3c0a23.css",
-    "main.js": "/static/js/main.69c73e30.js",
-    "static/js/453.7ad36787.chunk.js": "/static/js/453.7ad36787.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.f6121fbbfec25dbc851a.svg",
-    "index.html": "/index.html",
-    "main.6c3c0a23.css.map": "/static/css/main.6c3c0a23.css.map",
-    "main.69c73e30.js.map": "/static/js/main.69c73e30.js.map",
-    "453.7ad36787.chunk.js.map": "/static/js/453.7ad36787.chunk.js.map"
+    "main.css": "/heliverse-task/static/css/main.2ed939fc.css",
+    "main.js": "/heliverse-task/static/js/main.a50b12f6.js",
+    "static/js/453.7ad36787.chunk.js": "/heliverse-task/static/js/453.7ad36787.chunk.js",
+    "static/media/logo.svg": "/heliverse-task/static/media/logo.f6121fbbfec25dbc851a.svg",
+    "index.html": "/heliverse-task/index.html",
+    "main.2ed939fc.css.map": "/heliverse-task/static/css/main.2ed939fc.css.map",
+    "main.a50b12f6.js.map": "/heliverse-task/static/js/main.a50b12f6.js.map",
+    "453.7ad36787.chunk.js.map": "/heliverse-task/static/js/453.7ad36787.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c3c0a23.css",
-    "static/js/main.69c73e30.js"
+    "static/css/main.2ed939fc.css",
+    "static/js/main.a50b12f6.js"
   ]
 }
