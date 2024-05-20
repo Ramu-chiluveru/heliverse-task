@@ -71,7 +71,7 @@ const App = () => {
         <div className='card'>
           <img src='./Assets/motionarteffect-img7.png' alt=''/>
           <div className='content'>
-            <p className='lite'>User Friendly Interface</p>
+            <p className='lite' >User Friendly Interface</p>
             <p className='gray'>Ensure a smooth experience for both applicants and administrators.</p>
           </div>
         </div>
